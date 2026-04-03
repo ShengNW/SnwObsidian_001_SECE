@@ -30,6 +30,7 @@
 
 • 路径：Advanced → PCI Subsystem Settings
 
+
 • 找到：Above 4G Decoding → Enabled
 
 • 作用：让系统识别V100的32G显存（4GB以上PCIe地址空间）
