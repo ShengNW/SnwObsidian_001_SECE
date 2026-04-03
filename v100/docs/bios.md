@@ -29,7 +29,7 @@
 1. 开启 Above 4G Decoding（最关键）
 
 • 路径：Advanced → PCI Subsystem Settings
-
+![](assets/bios/file-20260403213938508.png)
 
 • 找到：Above 4G Decoding → Enabled
 
