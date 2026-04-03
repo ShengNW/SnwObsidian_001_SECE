@@ -57,7 +57,7 @@
 
 • 黑屏/无显示：
 
-◦ 检查Primary Display设为PCIe、CSM已关、Above 4G已开
+◦ 检查Primary Display设为PCIe、CSM、Above 4G已开
 
 ◦ 显示器接1060/1070，不要接V100（V100无视频输出）
 
@@ -71,9 +71,7 @@
 
 • 性能跑不满：
 
-◦ PCIe Speed设为Gen3
 
-◦ 关闭CPU C-State、PCIe ASPM
 
 ◦ 双路CPU要插满，否则PCIe通道不足
 
@@ -81,11 +79,9 @@
 
 1. Above 4G Decoding → Enabled
 
-2. Primary Display → PCIe
 
-3. PCIe Speed → Gen3
 
-4. PCIe ASPM → Disabled
+
 
 5. CSM Support → 
 
