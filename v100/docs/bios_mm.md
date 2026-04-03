@@ -69,33 +69,9 @@
 
 ◦ 若无法直接关：先把 Video/Storage/Network 都设为 UEFI，保存重启再关CSM
 
-5. 可选：CPU节能（提升计算稳定性）
 
-• 路径：IntelRCSetup → Advanced Power Management
 
-• 建议：
 
-◦ CPU C-State Control → Disabled（或Package C-State Limit → C0/C1）
-
-◦ CPU C3/C6 Report → Disabled
-
-四、安装与驱动（Windows）
-
-1. 先只装1060/1070，进系统，装NVIDIA Game Ready驱动
-
-2. 关机，插V100，开机进BIOS，按上面设置保存
-
-3. 进系统，设备管理器会看到两个NVIDIA显卡
-
-4. 装NVIDIA Data Center Driver（DC驱动）（不要用Game Ready）
-
-◦ 版本：535+ / 545+（支持V100+消费卡共存）
-
-5. 验证：
-
-◦ 任务管理器 → 性能 → GPU：看到两个GPU
-
-◦ nvidia-smi：V100显示为Tesla V100-PCIE-32GB
 
 五、常见问题与排查
 
