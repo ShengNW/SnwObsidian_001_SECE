@@ -64,6 +64,7 @@
 • 设置：
 
 ◦ CSM Support → Disabled
+![](assets/bios/file-20260403214659405.png)
 
 ◦ 若无法直接关：先把 Video/Storage/Network 都设为 UEFI，保存重启再关CSM
 
