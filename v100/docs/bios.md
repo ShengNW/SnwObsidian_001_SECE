@@ -32,7 +32,7 @@
 ![](assets/bios/file-20260403213938508.png)
 
 • 找到：Above 4G Decoding → Enabled
-![](assets/bios/file-20260403214051153.png)
+![](assets/bios/file-20260403214207352.png)
 
 • 作用：让系统识别V100的32G显存（4GB以上PCIe地址空间）
 
