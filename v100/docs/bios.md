@@ -59,6 +59,7 @@
 4. 关闭CSM（UEFI优先，Win10/11必须）
 
 • 路径：Advanced → CSM Configuration
+![](assets/bios/file-20260403214420425.png)
 
 • 设置：
 
