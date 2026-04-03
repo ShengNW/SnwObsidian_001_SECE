@@ -7,7 +7,7 @@
 • CPU：必须是E5 v3系列（v4不支持此板），要有足够PCIe通道（双路更稳）
 
 • 插槽建议：
-![](assets/bios_mm/file-20260403215909027.jpg)
+![](assets/bios_mlf/file-20260403221117208.jpg)
 
 ◦ PCIe_1（靠近CPU的第一条x16）
 
