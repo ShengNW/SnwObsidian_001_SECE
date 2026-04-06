@@ -157,7 +157,7 @@ flowchart TD
 ```
 
 **Mermaid Render Check**
-这张图已用 `mermaid-cli` 语法校验通过（见下方“校验命令”）。
+这张图已用 `mermaid-cli` 语法校验通过，并成功生成 `/tmp/claude-setup.svg`（2026-04-06）。
 
 **Validation Command (Mermaid)**
 ```bash
